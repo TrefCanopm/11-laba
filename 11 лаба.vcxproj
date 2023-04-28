@@ -24,6 +24,7 @@
     <ProjectGuid>{4e2c1c2a-930b-4588-9691-0c1c54d997de}</ProjectGuid>
     <RootNamespace>My11лаба</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Однонаправленный список</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
